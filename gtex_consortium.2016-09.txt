@@ -93,13 +93,13 @@ Andrew	P	Feinberg	Center for Epigenetics, Johns Hopkins University School of Med
 Lindsay	F	Rizzardi	Center for Epigenetics, Johns Hopkins University School of Medicine, Baltimore, MD, 21205		
 Kasper	D	Hansen	McKusick-Nathans Institute of Genetic Medicine, Center for Epigenetics, Johns Hopkins School of Medicine, Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205		
 Peter		Hickey	Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205		
-Joshua		Akey	Department of Genome Sciences, University of Washington, Seattle, WA, 98195		
+Joshua		Akey	Department of Genome Sciences, University of Washington, Seattle, WA 98195		
 Manolis		Kellis	CSAIL, MIT, Cambridge MA	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.	
 Jin Billy		Li	Department of Genetics, Stanford University, Stanford, CA, 94305		
 Michael		Snyder	Department of Genetics, Stanford University, Stanford, CA, 94305		
 Hua		Tang	Department of Genetics, Stanford University, Stanford, CA, 94305		
 Lihua		Jiang	Department of Genetics, Stanford University, Stanford, CA, 94305		
-Shin		Lin	Department of Genetics, Stanford University, Stanford, CA, 94305	Division of Cardiology, University of Washington, Seattle, WA, 98195	
+Shin		Lin	Department of Genetics, Stanford University, Stanford, CA, 94305	Division of Cardiology, University of Washington, Seattle, WA 98195	
 Barbara	E	Stranger	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Center for Data Intensive Science, Chicago, IL 60637		
 Marian		Fernando	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Chicago, IL 60637		
 Meritxell		Oliva	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Chicago, IL 60637		

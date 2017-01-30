@@ -107,10 +107,10 @@ Gen Li<sup>94</sup>, Pedro G. Ferreira<sup>95,96</sup>, Esti Yeger-Lotem<sup>97,
 56. Center for Epigenetics, Johns Hopkins University School of Medicine, Baltimore, MD, 21205
 57. McKusick-Nathans Institute of Genetic Medicine, Center for Epigenetics, Johns Hopkins School of Medicine, Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205
 58. Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205
-59. Department of Genome Sciences, University of Washington, Seattle, WA, 98195
+59. Department of Genome Sciences, University of Washington, Seattle, WA 98195
 60. CSAIL, MIT, Cambridge MA
 61. Department of Genetics, Stanford University, Stanford, CA, 94305
-62. Division of Cardiology, University of Washington, Seattle, WA, 98195
+62. Division of Cardiology, University of Washington, Seattle, WA 98195
 63. University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Center for Data Intensive Science, Chicago, IL 60637
 64. University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Chicago, IL 60637
 65. Altius Institute for Biomedical Sciences, Seattle, WA 98121
