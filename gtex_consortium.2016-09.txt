@@ -1,0 +1,231 @@
+# Laboratory, Data Analysis and Coordinating Center (LDACC) - Analysis Working Group (AWG)					
+Kristin	G	Ardlie	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Gad		Getz	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.	Massachusetts General Hospital Cancer Center and Department of Pathology, Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts, USA, Boston, MA 02114, USA	
+Ellen	T	Gelfand	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Ayellet	V	Segrè	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+François		Aguet	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Timothy	J	Sullivan	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Xiao		Li	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Jared	L	Nedzel	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Casandra	A	Trowbridge	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.		
+Daniel	G	MacArthur	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.	Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston MA 02114, USA.	
+Monkol		Lek	The Broad Institute of Massachusetts Institute of Technology and Harvard University. Cambridge, Massachusetts 02142, USA.	Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston MA 02114, USA.	
+Taru		Tukiainen	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.	Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston MA 02114, USA.	
+Kane		Hadley	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.		
+Katherine	H	Huang	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.		
+Michael	S	Noble	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.		
+Duyen	T	Nguyen	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.		
+Beryl	B	Cummings	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.	Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston MA 02114, USA.	
+# Funded Statistical Methods groups - Analysis Working Group (AWG)					
+Andrew	B	Nobel	Department of Statistics and Operations Research and Department of Biostatistics, University of North Carolina, Chapel Hill, NC 27599-3260		
+Fred	A.	Wright	Bioinformatics Research Center and Departments of Statistics and Biological Sciences, North Carolina State University, Raleigh NC, 27695		
+Andrey	A	Shabalin	Center for Biomarker Research and Personalized Medicine, Virginia Commonwealth University, Richmond, VA 23298-0581		
+John 	J	Palowitch	Department of Statistics and Operations Research, University of North Carolina, Chapel Hill, NC 27599-3260		
+Yi-Hui		Zhou	Bioinformatics Research Center and Department of Biological Sciences, North Carolina State University, Raleigh NC, 27695		
+Emmanouil	T	Dermitzakis	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Mark	I	McCarthy	Wellcome Trust Centre for Human Genetics Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK OX3 7BN	Oxford Centre for Diabetes, Endocrinology and Metabolism, University of Oxford, Churchill Hospital, Oxford, UK, OX3 7LE	Oxford NIHR Biomedical Research Centre, Churchill Hospital, Oxford, UK, OX3 7LJ
+Anthony	J	Payne	Wellcome Trust Centre for Human Genetics Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK OX3 7BN		
+Tuuli		Lappalainen	New York Genome Center, 101 Avenue of the Americas, New York, NY, 10013	Department of Systems Biology, Columbia University Medical Center, New York, NY 10032	
+Stephane		Castel	New York Genome Center, 101 Avenue of the Americas, New York, NY, 10013	Department of Systems Biology, Columbia University Medical Center, New York, NY 10032	
+Sarah		Kim-Hellmuth	New York Genome Center, 101 Avenue of the Americas, New York, NY, 10013	Department of Systems Biology, Columbia University Medical Center, New York, NY 10032	
+Pejman		Mohammadi	New York Genome Center, 101 Avenue of the Americas, New York, NY, 10013	Department of Systems Biology, Columbia University Medical Center, New York, NY 10032	
+Alexis		Battle	Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, USA		
+Princy		Parsana	Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, USA		
+Sara		Mostafavi	Department of Computer Science, Stanford University, Stanford, CA 94305, USA		
+Andrew		Brown	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Halit		Ongen	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Olivier		Delaneau	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Nikolaos		Panousis	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Cedric		Howald	Department of Genetic Medicine and Development, University of Geneva Medical School, 1211 Geneva, Switzerland	Institute for Genetics and Genomics in Geneva (iG3), University of Geneva, 1211 Geneva, Switzerland	Swiss Institute of Bioinformatics, 1211 Geneva, Switzerland
+Martijn		van de Bunt	Wellcome Trust Centre for Human Genetics Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK OX3 7BN	Oxford Centre for Diabetes, Endocrinology and Metabolism, University of Oxford, Churchill Hospital, Oxford, UK, OX3 7LE	
+Roderic		Guigo	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	Institut Hospital del Mar d'Investigacions Mèdiques (IMIM), 08003 Barcelona, Spain
+Jean		Monlong	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	Human Genetics Dept., McGill University, Montréal Canada
+Ferran		Reverter	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat de Barcelona, 08028 Barcelona, Catalonia, Spain	
+Deigo		Garrido	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Manuel		Munoz	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Gireesh		Bogu	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Reza		Sodaei	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Panagiotis		Papasaikas	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Anne	W	Ndungu	Wellcome Trust Centre for Human Genetics Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK OX3 7BN		
+Stephen	B	Montgomery	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Xin		Li	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Laure		Fresard	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Joe	R	Davis	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Emily	K	Tsang	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305	Biomedical Informatics Program, Stanford University, Stanford, CA, 94305	
+Zachary		Zappala	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Nathan	S	Abell	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Michael	J	Gloudemans	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305	Biomedical Informatics Program, Stanford University, Stanford, CA, 94305	
+Boxiang		Liu	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305	Department of Biology, Stanford University, Stanford, CA, 94305	
+Farhan	N	Damani	Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218		
+Ashis		Saha	Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218		
+Yungil		Kim	Department of Computer Science, Johns Hopkins University, Baltimore, MD 21218, USA		
+Benjamin	J	Strober	Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218		
+Yuan		He	Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, 21218		
+Matthew		Stephens	University of Chicago, Department of Human Genetics, Chicago, IL 60637	University of Chicago, Department of Statistics 5734 S. University Avenue, Chicago, IL 60637	
+Jonathan 	K	Pritchard	University of Chicago, Department of Human Genetics, Chicago, IL 60637	Dept of Genetics and Biology, Stanford University	Howard Hughes Medical Institute
+Xiaoquan		Wen	Dept of Biostatistics, University of Michigan, 1415 Washington Heights, Ann Arbor, MI 48109		
+Sarah		Urbut	University of Chicago, Department of Human Genetics, Chicago, IL 60637		
+Nancy	J	Cox	Division of Genetic Medicine, Department of Medicine, Vanderbilt University Medical Canter, Nashville, TN 37232	Department of Clinical Epidemiology, Biostatistics and Bioinformatics and Department of Psychiatry, Academic Medical Center, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands	
+Dan	L	Nicolae	University of Chicago, Section of Genetic Medicine, Department of Medicine, Department of Statistics and Department of Human Genetics, 900 East 57th Street KCBD 3220, Chicago, IL 60637		
+Eric	R	Gamazon	Division of Genetic Medicine, Department of Medicine, Vanderbilt University Medical Canter, Nashville, TN 37232	Department of Clinical Epidemiology, Biostatistics and Bioinformatics and Department of Psychiatry, Academic Medical Center, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands	
+Hae Kyung		Im	Section of Genetic Medicine, Department of Medicine, The University of Chicago, 900 East 57th Street KCBD 3220, Chicago, IL 60637		
+Christopher	D	Brown	University of Pennsylvania, Perelman School of Medicine, Department of Genetics, Philadelphia, PA, 19104		
+Barbara	E	Engelhardt 	Princeton University, Department of Computer Science, Center for Statistics and Machine Learning, 35 Olden Street, Princeton, NJ 08540		
+YoSon		Park	University of Pennsylvania, Perelman School of Medicine, Department of Genetics, Philadelphia, PA, 19104		
+Brian		Jo	Lewis Sigler Institute, Princeton University, Princeton, NJ 08540		
+Ian	C	McDowell	Computational Biology & Bioinformatics Graduate Program, Duke University, Durham, NC 27708		
+Ariel		Gewirtz	Lewis Sigler Institute, Princeton University, Princeton, NJ 08540		
+Genna		Gliner	Department of Operations Research and Financial Engineering, Princeton University, Princeton, NJ 08540		
+Don		Conrad	Department of Genetics, Washington University School of Medicine, St. Louis, Missouri, 63108 USA	Department of Pathology & Immunology, Washington University School of Medicine, St. Louis, Missouri, 63108, USA	
+Ira		Hall	McDonnell Genome Institute, Washington University School of Medicine, Saint Louis, MO, 63108	Department of Medicine, Washington University School of Medicine, Saint Louis, MO, 63108	Department of Genetics, Washington University School of Medicine, Saint Louis, MO, 63108
+Colby		Chiang 	McDonnell Genome Institute, Washington University School of Medicine, Saint Louis, MO, 63108		
+Alexandra		Scott	McDonnell Genome Institute, Washington University School of Medicine, Saint Louis, MO, 63108		
+Chiara 		Sabatti	Departments of Biomedical Data Science and Statistics, HRP Redwood building, Stanford, CA 94305-5404		
+Eleazar		Eskin	Department of Computer Science, Department of Human Genetics, University of California, Los Angeles, CA 90095		
+Christine		Peterson	Department of Biostatistics, The University of Texas MD Anderson Cancer Center, 1400 Pressler Street, Houston, TX 77030		
+Farhad		Hormozdiari	Department of Computer Science, University of California, Los Angeles, CA 90095		
+Eun Yong		Kang	Department of Computer Science, University of California, Los Angeles, CA 90095		
+Serghei		Mangul	Department of Computer Science, University of California, Los Angeles, CA 90095		
+Buhm		Han	Department of Convergence Medicine, University of Ulsan College of Medicine, Asan Medical Center, Korea		
+Jae Hoon		Sul	Department of Psychiatry and Biobehavioral Sciences, University of California, Los Angeles, CA 90095, USA		
+# Enhancing GTEx (eGTEx) funded groups					
+Andrew	P	Feinberg	Center for Epigenetics, Johns Hopkins University School of Medicine, Departments of Medicine, Biomedical Engineering, and Mental Health, Johns Hopkins University Schools of Medicine, Engineering, and Public Health, Baltimore, MD, 21205		
+Lindsay	F	Rizzardi	Center for Epigenetics, Johns Hopkins University School of Medicine, Baltimore, MD, 21205		
+Kasper	D	Hansen	McKusick-Nathans Institute of Genetic Medicine, Center for Epigenetics, Johns Hopkins School of Medicine, Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, 21205		
+Peter		Hickey	Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 21205		
+Joshua		Akey	Department of Genome Sciences, University of Washington, Seattle, WA, 98195		
+Manolis		Kellis	CSAIL, MIT, Cambridge MA	The Broad Institute of Massachusetts Institute of Technology and Harvard University Cambridge, Massachusetts 02142, USA.	
+Jin Billy		Li	Department of Genetics, Stanford University, Stanford, CA, 94305		
+Michael		Snyder	Department of Genetics, Stanford University, Stanford, CA, 94305		
+Hua		Tang	Department of Genetics, Stanford University, Stanford, CA, 94305		
+Lihua		Jiang	Department of Genetics, Stanford University, Stanford, CA, 94305		
+Shin		Lin	Department of Genetics, Stanford University, Stanford, CA, 94305	Division of Cardiology, University of Washington, Seattle, WA, 98195	
+Barbara	E	Stranger	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Center for Data Intensive Science, Chicago, IL 60637		
+Marian		Fernando	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Chicago, IL 60637		
+Meritxell		Oliva	University of Chicago, Section of Genetic Medicine, Department of Medicine, Institute for Genomics and Systems Biology, Chicago, IL 60637		
+John		Stamatoyannopoulos	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Rajinder		Kaul	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Jessica 		Halow	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Richard		Sandstrom	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Eric 		Haugen	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Audra		Johnson	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Kristen		Lee	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Daniel 		Bates	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Morgan		Diegel	Altius Institute for Biomedical Sciences, Seattle, WA 98121		
+Brandon	L	Pierce	University of Chicago, Department of Public Health Sciences, Chicago, IL  60637		
+Lin		Chen	University of Chicago, Department of Public Health Sciences, Chicago, IL  60637		
+Muhammad	G	Kibriya	University of Chicago, Department of Public Health Sciences, Chicago, IL  60637		
+Farzana		Jasmine	University of Chicago, Department of Public Health Sciences, Chicago, IL  60637		
+Jennifer		Doherty	Department of Epidemiology, The Geisel School of Medicine at Dartmouth, Lebanon, NH 03756		
+Kathryn 		Demanelis	University of Chicago, Department of Public Health Sciences, Chicago, IL  60637		
+Stephen 	B	Montgomery	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Emily	K	Tsang	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Kevin	S	Smith	Departments of Genetics and Pathology, Stanford University, Stanford, CA, 94305		
+Qin		Li	Department of Genetics, Stanford University, Stanford, CA, 94305		
+Rui		Zhang	Department of Genetics, Stanford University, Stanford, CA, 94305		
+# NIH Common Fund					
+Concepcion	R	Nierras	Office of Strategic Coordination, Division of Program Coordination, Planning and Strategic Initiatives, Rockville, MD 20852-9305		
+# NIH/NCI					
+Helen	M	Moore	Biorepositories and Biospecimen Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD 20892		
+Abhi		Rao	Biorepositories and Biospecimen Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD 20892		
+Ping 		Guan	Biorepositories and Biospecimen Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD 20892		
+Jimmie	B	Vaught	Biorepositories and Biospecimen Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD 20892		
+Philip	A	Branton	Biorepositories and Biospecimen Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, Bethesda, MD 20892		
+Latarsha	J	Carithers	National Institute of Dental and Craniofacial Research, 6701 Democracy Blvd, Bethesda, MD 20892		
+# NIH/NHGRI					
+Simona		Volpi	Division of Genomic Medicine, National Human Genome Research Institute, Rockville, MD		
+Jeffery	P	Struewing	Division of Genomic Medicine, National Human Genome Research Institute, Rockville, MD		
+Casey	G	Martin	Division of Genomic Medicine, National Human Genome Research Institute, Rockville, MD		
+Lockhart	C	Nicole	Division of Genomic Medicine, National Human Genome Research Institute, Rockville, MD		
+# NIH/NIMH					
+Susan 	E	Koester	DNBBS/NIMH/NIH, Bethesda, MD 20892		
+Anjene	M	Addington	DNBBS/NIMH/NIH, Bethesda, MD 20892		
+# NIH/NIDA					
+A.	Roger	Little	National Institute on Drug Abuse, NIH, HHS. Bethesda, Maryland USA 20892 		
+# Biospecimen Collection Source Site - NDRI					
+William	F.	Leinweber	National Disease Research Interchange, Philadelphia, PA 19103		
+Jeffrey	A.	Thomas	National Disease Research Interchange, Philadelphia, PA 19103		
+Gene		Kopen	National Disease Research Interchange, Philadelphia, PA 19103		
+Alisa		McDonald	National Disease Research Interchange, Philadelphia, PA 19103		
+Bernadette		Mestichelli	National Disease Research Interchange, Philadelphia, PA 19103		
+Saboor		Shad	National Disease Research Interchange, Philadelphia, PA 19103		
+John	T.	Lonsdale	National Disease Research Interchange, Philadelphia, PA 19103		
+Michael		Salvatore	National Disease Research Interchange, Philadelphia, PA 19103		
+Richard		Hasz	Gift of Life Donor Program, Philadelphia, PA 19103		
+Gary		Walters	LifeNet Health, Virginia Beach, VA 23453		
+Mark		Johnson	LifeNet Health, Virginia Beach, VA 23453		
+Michael		Washington	LifeNet Health, Virginia Beach, VA 23453		
+Lori	E.	Brigham	Washington Regional Transplant Community, Annandale, VA 22003		
+Christopher		Johns	Center for Organ Recovery and Education, Pittsburgh, PA 15238		
+Joseph		Wheeler	Center for Organ Recovery and Education, Pittsburgh, PA 15238		
+Brian		Roe	LifeGift, Houston, TX 77054		
+Marcus		Hunter	LifeGift, Houston, TX 77054		
+Kevin		Myer	LifeGift, Houston, TX 77054		
+# Biospecimen Collection Source Site - RPCI					
+Barbara	A	Foster	Roswell Park Cancer Institute  Pharmacology & Therapeutics, Buffalo NY 14263		
+Michael	T	Moser	Roswell Park Cancer Institute  Pharmacology & Therapeutics, Buffalo NY 14263		
+Ellen 		Karasik	Roswell Park Cancer Institute  Pharmacology & Therapeutics, Buffalo NY 14263		
+Bryan 	M	Gillard	Roswell Park Cancer Institute  Pharmacology & Therapeutics, Buffalo NY 14263		
+Rachna		Kumar	Roswell Park Cancer Institute  Pharmacology & Therapeutics, Buffalo NY 14263		
+Jason 		Bridge	110 Broadway, Buffalo, NY 14203		
+Mark 		Miklos	110 Broadway, Buffalo, NY 14203		
+# Biospecimen Core Resource - VARI					
+Scott	D.	Jewell	Van Andel Research Institute, Grand Rapids, MI, 49503		
+Daniel	C.	Rohrer	Van Andel Research Institute, Grand Rapids, MI, 49503		
+Dana		Valley	Van Andel Research Institute, Grand Rapids, MI, 49503		
+Robert	G.	Montroy	Van Andel Research Institute, Grand Rapids, MI, 49503		
+# Brain Bank Repository - U Miami					
+Deborah 	C	Mash	Univ. Miami Miller School of Medicine, Dept. Neurology, Miami, FL 33136		
+David	A	Davis	Univ. Miami Brain Endowment Bank, Miller School of Medicine, Miami, FL 33136		
+# Leidos Biomedical - Project Management					
+Anita	H 	Undale	NIH/NIAID, 5601 Fishers Lane, Rockville, MD 20852		
+Anna 	M	Smith	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+David	E	Tabor	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Nancy	V	Roche	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Jeffrey	A	McLean	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Negin		Vatanian	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Karna	L	Robinson	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Leslie 		Sobin	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Mary	E	Barcus	8560 Progress Drive, Room C3021, Frederick MD 21701		
+Kimberly	M	Valentino	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Liqun		Qi	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Stephen		Hunter	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Pushpa		Hariharan	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Shilpi		Singh	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Ki Sung		Um	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Takunda		Matose	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+Maria	M	Tomadzewski	6110 Executive Blvd, Suite 250, Rockville MD 20852		
+# ELSI Study					
+Laura	A	Siminoff	Temple University, Philadelphia, PA 19122		
+Heather	M	Traino	Temple University, 1301 Cecil B. Moore Avenue, Ritter Annex 9th Floor, Philadelphia, PA 19122		
+Maghboeba		Mosavel	Virginia Commonwealth University, Richmond, VA 23219		
+Laura	K	Barker	Temple University,  Philadelphia, PA 19122		
+# Genome Browser Data Integration, and Visualization - EBI					
+Daniel 	R	Zerbino	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Thomas		Juettmann	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Kieron		Taylor	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Magali		Ruffier	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Dan		Sheppard	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Steven		Trevanion	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+Paul		Flicek	European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge CB 10 1SD, United Kingdom		
+# Genome Browser Data Integration, and visualization - UCSC Genomics Institute, University of California Santa Cruz					
+W. James		Kent	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Kate	R	Rosenbloom	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Maximilian		Haeussler	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Christopher	M	Lee	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Benedict		Paten	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+John		Vivan	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Jingchun		Zhu	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Mary		Goldman	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+Brian		Craft	UCSC Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 95064		
+# Other members of the Analysis Working Group (AWG)					
+Gen		Li	Department of Biostatistics, Mailman School of Public Health, Columbia University, New York, NY 10032		
+Pedro	G.	Ferreira	i3S - Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Rua Alfredo Allen, 208, 4200-135 Porto, Portugal	IPATIMUP - Institute of Molecular Pathology and Immunology, University of Porto, Rua Dr. Roberto Frias s/n, 4200-625 Porto, Portugal	
+Esti		Yeger-Lotem	Ben-Gurion University of the Negev, Beer-Sheva, 84105 Israel	National Institute for Biotechnology in the Negev, Beer-Sheva, 84105 Israel	
+Matthew	T	Maurano	Institute for Systems Genetics, New York University Langone Medical Center, New York, New York 10016, USA		
+Ruth		Barshir	Ben-Gurion University of the Negev, Beer-Sheva, 84105 Israel		
+Omer		Basha	Ben-Gurion University of the Negev, Beer-Sheva, 84105 Israel		
+Hualin	S	Xi	Computational Sciences, Pfizer Inc, 610 Main st, Cambridge, MA02140		
+Jie		Quan	Computational Sciences, Pfizer Inc, 610 Main st, Cambridge, MA02140		
+Michael		Sammeth	Institute of Biophysics Carlos Chagas Filho (IBCCF), Federal University of Rio de Janeiro (UFRJ),  21941902 Rio de Janeiro, Brazil		
+Judith	B	Zaugg	European Molecular Biology Laboratorium, Meyerhofstrasse 1, 69117 Heidelberg, Germany		
