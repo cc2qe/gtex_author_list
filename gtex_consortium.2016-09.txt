@@ -41,7 +41,7 @@ Martijn		van de Bunt	Wellcome Trust Centre for Human Genetics Research, Nuffield
 Roderic		Guigo	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	Institut Hospital del Mar d'Investigacions Mèdiques (IMIM), 08003 Barcelona, Spain
 Jean		Monlong	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	Human Genetics Dept., McGill University, Montréal Canada
 Ferran		Reverter	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat de Barcelona, 08028 Barcelona, Catalonia, Spain	
-Deigo		Garrido	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
+Diego		Garrido	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
 Manuel		Munoz	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
 Gireesh		Bogu	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
 Reza		Sodaei	Center for Genomic Regulation (CRG), Barcelona, Catalonia, Spain	Universitat Pompeu Fabra, 08003 Barcelona, Catalonia, Spain	
